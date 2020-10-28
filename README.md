@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 <!-- 배지 -->
 <a href="https://blog.naver.com/vkfkdto0209">
-  <img align="left" alt="HelloJinny | NaverBlog" width="20px"
+  <img align="left" alt="HelloJinny | NaverBlog" width="30px"
        src="https://raw.githubusercontent.com/HelloJinny/HelloJinny/main/images/naverblog.png" />
 </a>
+
+<br />
+<br />
 
 <!--
 **GitHub Stats Card
