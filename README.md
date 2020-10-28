@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 배지 -->
+<a href="https://blog.naver.com/vkfkdto0209">
+  <img align="left" alt="HelloJinny | NaverBlog" width="20px"
+       src="https://raw.githubusercontent.com/HelloJinny/HelloJinny/main/img/naverblog.png" />
+</a>
+
 <!--
 **GitHub Stats Card
 
@@ -30,11 +36,13 @@ Here are some ideas to get you started:
   - 모든 내장된 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, ...
 -->
 
-[![Jinny's github stats](https://github-readme-stats.vercel.app/api?username=HelloJinny&show_icons=true?&theme=vue)](https://github.com/HelloJinny/github-readme-stats)
+[![Jinny's github stats](https://github-readme-stats.vercel.app/api?username=HelloJinny&show_icons=true?&theme=omni)](https://github.com/HelloJinny/github-readme-stats)
 
-<!-- GitHub Extra Pins -->
+<!--
+**GitHub Extra Pins 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/pin/?username=HelloJinny&repo=github-readme-stats)](https://github.com/HelloJinny/github-readme-stats)
+-->
 
 <!--
 **상위 언어 카드
