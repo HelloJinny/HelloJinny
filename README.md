@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HelloJinny/HelloJinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,11 +30,11 @@ Here are some ideas to get you started:
   - 모든 내장된 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, ...
 -->
 
-[![Jinny's github stats](https://github-readme-stats.vercel.app/api?username=HelloJinny&hide=stars,commits,prs,issues,contribs&show_icons=true?&theme=vue)](https://github.com/HelloJinny/github-readme-stats)
+[![Jinny's github stats](https://github-readme-stats.vercel.app/api?username=HelloJinny&show_icons=true?&theme=vue)](https://github.com/HelloJinny/github-readme-stats)
 
 <!-- GitHub Extra Pins -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=HelloJinny/pin/?username=HelloJinny&repo=github-readme-stats)](https://github.com/HelloJinny/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/pin/?username=HelloJinny&repo=github-readme-stats)](https://github.com/HelloJinny/github-readme-stats)
 
 <!--
 **상위 언어 카드
