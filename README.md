@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 배지 -->
 <a href="https://blog.naver.com/vkfkdto0209">
   <img align="left" alt="HelloJinny | NaverBlog" width="20px"
-       src="https://raw.githubusercontent.com/HelloJinny/HelloJinny/main/img/naverblog.png" />
+       src="https://raw.githubusercontent.com/HelloJinny/HelloJinny/main/images/naverblog.png" />
 </a>
 
 <!--
